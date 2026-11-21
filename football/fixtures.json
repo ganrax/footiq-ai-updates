@@ -1,9 +1,9 @@
 {
   "provider": "API-Football",
-  "generatedAt": "2026-11-21T07:57:04+01:00",
+  "generatedAt": "2026-11-21T11:00:09+01:00",
   "from": "2026-11-21",
   "to": "2026-11-22",
-  "fixtureCount": 2168,
+  "fixtureCount": 2138,
   "fixtures": [
     {
       "id": 1632129,
@@ -24,78 +24,6 @@
       "status": "NS"
     },
     {
-      "id": 1556142,
-      "competition": "J1 League",
-      "country": "Japan",
-      "date": "2026-11-21T07:00:00+00:00",
-      "homeTeam": "Gamba Osaka",
-      "awayTeam": "Fagiano Okayama",
-      "status": "NS"
-    },
-    {
-      "id": 1607333,
-      "competition": "Premier League",
-      "country": "Hong-Kong",
-      "date": "2026-11-21T07:00:00+00:00",
-      "homeTeam": "Wofoo Tai Po",
-      "awayTeam": "Kitchee",
-      "status": "NS"
-    },
-    {
-      "id": 1607342,
-      "competition": "Premier League",
-      "country": "Hong-Kong",
-      "date": "2026-11-21T07:00:00+00:00",
-      "homeTeam": "Southern District",
-      "awayTeam": "BC Rangers",
-      "status": "NS"
-    },
-    {
-      "id": 1510501,
-      "competition": "K League 2",
-      "country": "South-Korea",
-      "date": "2026-11-21T07:30:00+00:00",
-      "homeTeam": "Gimpo Citizen",
-      "awayTeam": "Suwon City FC",
-      "status": "NS"
-    },
-    {
-      "id": 1510502,
-      "competition": "K League 2",
-      "country": "South-Korea",
-      "date": "2026-11-21T07:30:00+00:00",
-      "homeTeam": "Seongnam FC",
-      "awayTeam": "Yongin City",
-      "status": "NS"
-    },
-    {
-      "id": 1647382,
-      "competition": "K League 1",
-      "country": "South-Korea",
-      "date": "2026-11-21T07:30:00+00:00",
-      "homeTeam": "Gangwon FC",
-      "awayTeam": "Daejeon Citizen",
-      "status": "NS"
-    },
-    {
-      "id": 1647383,
-      "competition": "K League 1",
-      "country": "South-Korea",
-      "date": "2026-11-21T07:30:00+00:00",
-      "homeTeam": "Incheon United",
-      "awayTeam": "Ulsan Hyundai FC",
-      "status": "NS"
-    },
-    {
-      "id": 1640883,
-      "competition": "Diski Challenge",
-      "country": "South-Africa",
-      "date": "2026-11-21T08:00:00+00:00",
-      "homeTeam": "Chippa United U23",
-      "awayTeam": "Richards Bay U23",
-      "status": "NS"
-    },
-    {
       "id": 1640885,
       "competition": "Diski Challenge",
       "country": "South-Africa",
@@ -105,84 +33,12 @@
       "status": "NS"
     },
     {
-      "id": 1640886,
-      "competition": "Diski Challenge",
-      "country": "South-Africa",
-      "date": "2026-11-21T08:00:00+00:00",
-      "homeTeam": "Mamelodi Sundowns U23",
-      "awayTeam": "Golden Arrows U23",
-      "status": "NS"
-    },
-    {
       "id": 1641031,
       "competition": "Diski Challenge",
       "country": "South-Africa",
       "date": "2026-11-21T08:00:00+00:00",
       "homeTeam": "Kruger United U23",
       "awayTeam": "Sekhukhune United U23",
-      "status": "NS"
-    },
-    {
-      "id": 1641938,
-      "competition": "Lao League",
-      "country": "Laos",
-      "date": "2026-11-21T08:00:00+00:00",
-      "homeTeam": "Ezra",
-      "awayTeam": "Savannakhet",
-      "status": "NS"
-    },
-    {
-      "id": 1641939,
-      "competition": "Lao League",
-      "country": "Laos",
-      "date": "2026-11-21T08:00:00+00:00",
-      "homeTeam": "Champasak United",
-      "awayTeam": "Namtha United",
-      "status": "NS"
-    },
-    {
-      "id": 1622838,
-      "competition": "Liga 1",
-      "country": "Indonesia",
-      "date": "2026-11-21T08:30:00+00:00",
-      "homeTeam": "Persebaya Surabaya",
-      "awayTeam": "Java United",
-      "status": "NS"
-    },
-    {
-      "id": 1622839,
-      "competition": "Liga 1",
-      "country": "Indonesia",
-      "date": "2026-11-21T08:30:00+00:00",
-      "homeTeam": "Persik Kediri",
-      "awayTeam": "PSIM Yogyakarta",
-      "status": "NS"
-    },
-    {
-      "id": 1635012,
-      "competition": "V.League 2",
-      "country": "Vietnam",
-      "date": "2026-11-21T08:30:00+00:00",
-      "homeTeam": "Lam Dong",
-      "awayTeam": "Dong Thap",
-      "status": "NS"
-    },
-    {
-      "id": 1637715,
-      "competition": "Liga 2",
-      "country": "Indonesia",
-      "date": "2026-11-21T08:30:00+00:00",
-      "homeTeam": "PSIS Semarang",
-      "awayTeam": "Semen Padang",
-      "status": "NS"
-    },
-    {
-      "id": 1637718,
-      "competition": "Liga 2",
-      "country": "Indonesia",
-      "date": "2026-11-21T08:30:00+00:00",
-      "homeTeam": "RANS Nusantara",
-      "awayTeam": "Persipura Jayapura",
       "status": "NS"
     },
     {
@@ -222,120 +78,12 @@
       "status": "NS"
     },
     {
-      "id": 1593707,
-      "competition": "A-League",
-      "country": "Australia",
-      "date": "2026-11-21T08:40:00+00:00",
-      "homeTeam": "Brisbane Roar",
-      "awayTeam": "Sydney",
-      "status": "NS"
-    },
-    {
-      "id": 1565129,
-      "competition": "1. Liga U19",
-      "country": "Czech-Republic",
-      "date": "2026-11-21T09:00:00+00:00",
-      "homeTeam": "Baník Ostrava U19",
-      "awayTeam": "Viktoria Plzeň U19",
-      "status": "NS"
-    },
-    {
-      "id": 1581978,
-      "competition": "Persha Liga",
-      "country": "Ukraine",
-      "date": "2026-11-21T09:00:00+00:00",
-      "homeTeam": "Kolos Kovalivka II",
-      "awayTeam": "Viktoriya Mykolaivka",
-      "status": "NS"
-    },
-    {
       "id": 1593089,
       "competition": "Druha Liga",
       "country": "Ukraine",
       "date": "2026-11-21T09:00:00+00:00",
       "homeTeam": "Trostianets",
       "awayTeam": "Penuel",
-      "status": "NS"
-    },
-    {
-      "id": 1602553,
-      "competition": "Liga II",
-      "country": "Romania",
-      "date": "2026-11-21T09:00:00+00:00",
-      "homeTeam": "Dumbrăviţa",
-      "awayTeam": "CS Afumati",
-      "status": "NS"
-    },
-    {
-      "id": 1602554,
-      "competition": "Liga II",
-      "country": "Romania",
-      "date": "2026-11-21T09:00:00+00:00",
-      "homeTeam": "CSM Reşiţa",
-      "awayTeam": "Metaloglobus",
-      "status": "NS"
-    },
-    {
-      "id": 1602555,
-      "competition": "Liga II",
-      "country": "Romania",
-      "date": "2026-11-21T09:00:00+00:00",
-      "homeTeam": "Slatina",
-      "awayTeam": "ASA Targu Mures",
-      "status": "NS"
-    },
-    {
-      "id": 1602556,
-      "competition": "Liga II",
-      "country": "Romania",
-      "date": "2026-11-21T09:00:00+00:00",
-      "homeTeam": "FC Bacau",
-      "awayTeam": "CS Dinamo București",
-      "status": "NS"
-    },
-    {
-      "id": 1602559,
-      "competition": "Liga II",
-      "country": "Romania",
-      "date": "2026-11-21T09:00:00+00:00",
-      "homeTeam": "Popești-Leordeni",
-      "awayTeam": "Viitorul Şelimbăr",
-      "status": "NS"
-    },
-    {
-      "id": 1602562,
-      "competition": "Liga II",
-      "country": "Romania",
-      "date": "2026-11-21T09:00:00+00:00",
-      "homeTeam": "Ştefăneşti",
-      "awayTeam": "Unirea Slobozia",
-      "status": "NS"
-    },
-    {
-      "id": 1610574,
-      "competition": "Liga II",
-      "country": "Romania",
-      "date": "2026-11-21T09:00:00+00:00",
-      "homeTeam": "CSM Satu Mare",
-      "awayTeam": "Concordia",
-      "status": "NS"
-    },
-    {
-      "id": 1629482,
-      "competition": "U19 league",
-      "country": "Turkey",
-      "date": "2026-11-21T09:00:00+00:00",
-      "homeTeam": "Amedspor U19",
-      "awayTeam": "Rizespor U19",
-      "status": "NS"
-    },
-    {
-      "id": 1634859,
-      "competition": "National League",
-      "country": "Myanmar",
-      "date": "2026-11-21T09:00:00+00:00",
-      "homeTeam": "Yangon United",
-      "awayTeam": "I.S.P.E",
       "status": "NS"
     },
     {
@@ -354,15 +102,6 @@
       "date": "2026-11-21T09:30:00+00:00",
       "homeTeam": "Nürnberg U19",
       "awayTeam": "Greuther Fürth U19",
-      "status": "NS"
-    },
-    {
-      "id": 1634860,
-      "competition": "National League",
-      "country": "Myanmar",
-      "date": "2026-11-21T09:30:00+00:00",
-      "homeTeam": "Sagaing United",
-      "awayTeam": "Myawady",
       "status": "NS"
     },
     {
@@ -471,15 +210,6 @@
       "date": "2026-11-21T10:00:00+00:00",
       "homeTeam": "İnkılapspor",
       "awayTeam": "Yalova Yeşilovaspor",
-      "status": "NS"
-    },
-    {
-      "id": 1590482,
-      "competition": "3. Lig - Group 1",
-      "country": "Turkey",
-      "date": "2026-11-21T10:00:00+00:00",
-      "homeTeam": "Küçükçekmece Sinopspor",
-      "awayTeam": "Karadeniz Ereğli BSK",
       "status": "NS"
     },
     {
@@ -2739,6 +2469,15 @@
       "date": "2026-11-21T12:00:00+00:00",
       "homeTeam": "Istogu",
       "awayTeam": "Tefik Canga",
+      "status": "NS"
+    },
+    {
+      "id": 1650833,
+      "competition": "Liga E Pare",
+      "country": "Kosovo",
+      "date": "2026-11-21T12:00:00+00:00",
+      "homeTeam": "Mitrovica",
+      "awayTeam": "Dinamo Ferizaj",
       "status": "NS"
     },
     {
@@ -7566,15 +7305,6 @@
       "status": "NS"
     },
     {
-      "id": 1596559,
-      "competition": "Non League Premier - Northern",
-      "country": "England",
-      "date": "2026-11-21T15:00:00+00:00",
-      "homeTeam": "Warrington Town",
-      "awayTeam": "Guiseley AFC",
-      "status": "NS"
-    },
-    {
       "id": 1596560,
       "competition": "Non League Premier - Northern",
       "country": "England",
@@ -8103,6 +7833,15 @@
       "date": "2026-11-21T15:00:00+00:00",
       "homeTeam": "Ikorodu City",
       "awayTeam": "Kano Pillars",
+      "status": "NS"
+    },
+    {
+      "id": 1628604,
+      "competition": "NPFL",
+      "country": "Nigeria",
+      "date": "2026-11-21T15:00:00+00:00",
+      "homeTeam": "Bendel Insurance",
+      "awayTeam": "Doma United",
       "status": "NS"
     },
     {
@@ -9951,6 +9690,15 @@
       "status": "NS"
     },
     {
+      "id": 1628610,
+      "competition": "NPFL",
+      "country": "Nigeria",
+      "date": "2026-11-21T18:00:00+00:00",
+      "homeTeam": "Sporting Lagos",
+      "awayTeam": "Kwara United",
+      "status": "NS"
+    },
+    {
       "id": 1631647,
       "competition": "Liga Premier Serie B",
       "country": "Mexico",
@@ -10482,15 +10230,6 @@
       "status": "NS"
     },
     {
-      "id": 1645275,
-      "competition": "Eerste Divisie",
-      "country": "Suriname",
-      "date": "2026-11-21T19:00:00+00:00",
-      "homeTeam": "Flora",
-      "awayTeam": "FC Inter Wanica",
-      "status": "NS"
-    },
-    {
       "id": 1645542,
       "competition": "Primera División",
       "country": "Bolivia",
@@ -10578,6 +10317,15 @@
       "date": "2026-11-21T19:30:00+00:00",
       "homeTeam": "Safa",
       "awayTeam": "Al Ansar",
+      "status": "NS"
+    },
+    {
+      "id": 1645275,
+      "competition": "Eerste Divisie",
+      "country": "Suriname",
+      "date": "2026-11-21T19:30:00+00:00",
+      "homeTeam": "Flora",
+      "awayTeam": "FC Inter Wanica",
       "status": "NS"
     },
     {
@@ -10923,6 +10671,15 @@
       "status": "NS"
     },
     {
+      "id": 1636046,
+      "competition": "Primera Premier",
+      "country": "Mexico",
+      "date": "2026-11-21T21:30:00+00:00",
+      "homeTeam": "Racing de Veracruz",
+      "awayTeam": "Tritons Vallarta",
+      "status": "NS"
+    },
+    {
       "id": 1639808,
       "competition": "Liga Pro",
       "country": "Ecuador",
@@ -10938,6 +10695,15 @@
       "date": "2026-11-21T21:30:00+00:00",
       "homeTeam": "Deportivo Tachira FC",
       "awayTeam": "Caracas FC",
+      "status": "NS"
+    },
+    {
+      "id": 1646939,
+      "competition": "Primera División",
+      "country": "Venezuela",
+      "date": "2026-11-21T21:30:00+00:00",
+      "homeTeam": "Carabobo FC",
+      "awayTeam": "Portuguesa FC",
       "status": "NS"
     },
     {
@@ -10983,6 +10749,15 @@
       "date": "2026-11-21T22:00:00+00:00",
       "homeTeam": "Guerreros",
       "awayTeam": "Calor de San Pedro",
+      "status": "NS"
+    },
+    {
+      "id": 1636047,
+      "competition": "Primera Premier",
+      "country": "Mexico",
+      "date": "2026-11-21T22:00:00+00:00",
+      "homeTeam": "Pioneros de Cancún",
+      "awayTeam": "Lobos ULMX",
       "status": "NS"
     },
     {
@@ -13638,15 +13413,6 @@
       "date": "2026-11-22T12:00:00+00:00",
       "homeTeam": "Sogndal",
       "awayTeam": "Bjarg",
-      "status": "NS"
-    },
-    {
-      "id": 1650833,
-      "competition": "Liga E Pare",
-      "country": "Kosovo",
-      "date": "2026-11-22T12:00:00+00:00",
-      "homeTeam": "Mitrovica",
-      "awayTeam": "Dinamo Ferizaj",
       "status": "NS"
     },
     {
@@ -17187,15 +16953,6 @@
       "status": "NS"
     },
     {
-      "id": 1628604,
-      "competition": "NPFL",
-      "country": "Nigeria",
-      "date": "2026-11-22T15:00:00+00:00",
-      "homeTeam": "Bendel Insurance",
-      "awayTeam": "Doma United",
-      "status": "NS"
-    },
-    {
       "id": 1628605,
       "competition": "NPFL",
       "country": "Nigeria",
@@ -17220,15 +16977,6 @@
       "date": "2026-11-22T15:00:00+00:00",
       "homeTeam": "Enugu Rangers",
       "awayTeam": "Shooting Stars",
-      "status": "NS"
-    },
-    {
-      "id": 1628610,
-      "competition": "NPFL",
-      "country": "Nigeria",
-      "date": "2026-11-22T15:00:00+00:00",
-      "homeTeam": "Sporting Lagos",
-      "awayTeam": "Kwara United",
       "status": "NS"
     },
     {
@@ -18843,6 +18591,15 @@
       "status": "NS"
     },
     {
+      "id": 1636048,
+      "competition": "Primera Premier",
+      "country": "Mexico",
+      "date": "2026-11-22T18:00:00+00:00",
+      "homeTeam": "Montañeses",
+      "awayTeam": "Tigres de Alica",
+      "status": "NS"
+    },
+    {
       "id": 1647582,
       "competition": "Taça de Portugal",
       "country": "Portugal",
@@ -19329,15 +19086,6 @@
       "status": "NS"
     },
     {
-      "id": 1646939,
-      "competition": "Primera División",
-      "country": "Venezuela",
-      "date": "2026-11-22T21:30:00+00:00",
-      "homeTeam": "Carabobo FC",
-      "awayTeam": "Portuguesa FC",
-      "status": "NS"
-    },
-    {
       "id": 1650247,
       "competition": "Serie B",
       "country": "Brazil",
@@ -19362,15 +19110,6 @@
       "date": "2026-11-22T22:00:00+00:00",
       "homeTeam": "Real Apodaca",
       "awayTeam": "Acambaro",
-      "status": "NS"
-    },
-    {
-      "id": 1636046,
-      "competition": "Primera Premier",
-      "country": "Mexico",
-      "date": "2026-11-22T22:00:00+00:00",
-      "homeTeam": "Racing de Veracruz",
-      "awayTeam": "Tritons Vallarta",
       "status": "NS"
     },
     {
@@ -19416,15 +19155,6 @@
       "date": "2026-11-22T22:30:00+00:00",
       "homeTeam": "RB Bragantino",
       "awayTeam": "Vasco DA Gama",
-      "status": "NS"
-    },
-    {
-      "id": 1636047,
-      "competition": "Primera Premier",
-      "country": "Mexico",
-      "date": "2026-11-22T22:30:00+00:00",
-      "homeTeam": "Pioneros de Cancún",
-      "awayTeam": "Lobos ULMX",
       "status": "NS"
     },
     {
